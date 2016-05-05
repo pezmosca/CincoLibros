@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">5 libros que me han marcado</string>
+
+    <string name="tituloEADA">El arte de amar</string>
+    <string name="autorEADA">Erich Fromm</string>
+    <string name="yearEADA">1956 d.C.</string>
+    <string name="explicacionEADA">El libro postula principalmente que el amor es la respuesta al
+        problema de la existencia humana, puesto que el desarrollo de éste conlleva a una
+        disolución del estado de separación o separatividad sin perder la propia individualidad.
+        Asimismo estudia la naturaleza del amor en sus diversas formas: amor fraternal, amor de
+        padre y de madre, amor a uno mismo, amor erótico y amor a Dios. El autor postula que los
+        elementos necesarios para el desarrollo de un amor maduro son el cuidado, la
+        responsabilidad, el respeto y el conocimiento. En el capítulo tres Fromm realiza un
+        análisis del amor y su significado en la sociedad actual, con base en el cual llega a la
+        conclusión de que el modo capitalista de producción tiende a enajenar al hombre y a
+        imposibilitarlo -al menos socialmente- para amar.</string>
+
+    <string name="tituloEALL">Elogio a la Locura</string>
+    <string name="autorEALL">Erasmo de Rotterdam</string>
+    <string name="yearEALL">1511 d.C.</string>
+    <string name="explicacionEALL">Elogio de la locura  es una obra escrita como un juego
+        divertido, satírico e ingenioso que pretende hacer crítica de la sociedad de la época, en
+        la que todas las clases sociales son denunciadas y despedazadas por la Locura (Estulticia)
+        que es la que narra el relato. No deja títere con cabeza: papas, reyes, nobles, monjes,
+        mujeres... Erasmo, defensor de la racionalidad y del equilibrio humanista, pasará a la
+        historia con esta obra que es todo lo contrario. Quizás la razón que le empujó  a romper
+        con su línea pudo ser táctica. Al expresarse por boca de la Locura se disfraza de bufón y
+        se protege de las previsibles represalias del poder, al tiempo que los buenos lectores
+        sabrán comprender sus mensajes sin problema alguno... Esto último es cuestionable...
+        En su época el sistema hacia aguas, pero los poderosos seguían manteniendo sus privilegios
+        como aves de rapiña sin importarles un comino el devenir del futuro mientras pudiesen
+        seguir dominando su presente. Erasmo no pudo o no quiso denunciar ese estado  de otramanera
+        que elogiando la Locura, o sea la estupidez... El libro, sin embargo, es tremendamente
+        ambiguo. Las contradicciones abundan y ni en su época supieron llegar a fondo de su
+        pensamiento ni quinientos años después se pude presumir de haberlo logrado. Ante todo
+        es una obra irónica, en la que se expresa lo contrario de lo que parece expresarse. Se
+        trata de un discurso que obliga a convertir todas las afirmaciones en negativo para
+        comprenderlas. Pura retórica que le protege porque siempre podrá negar lo dicho alegando
+        que se trata de un mero juego de palabras.</string>
+
+    <string name="tituloEMAL">Epístolas morales a Lucilio</string>
+    <string name="autorEMAL">Lucio Anneo Séneca</string>
+    <string name="yearEMAL">65 d. C.</string>
+    <string name="explicacionEMAL">Las Cartas a Lucilio son uno de los mejores recipientes en los
+        que Séneca aborda su a veces ecléctica filosofía. A lo largo de las 124 cartas, va a
+        abordar un amplio abanico de temas, siendo el hilo conductor de todos ellos los consejos
+        que Séneca ofrece, a instancias de Lucilio, sobre cómo convertirse en un mejor estoico:
+        en todas se ellas se tratará de aunar las sublimidades del pensamiento humano para poder
+        alcanzar la virtud, bien supremo de los estoicos. A su vez, expondrá, a lo largo de las
+        mismas, los principales fundamentos del estoicismo, tales como su teogonía, ciertos
+        aspectos del atomismo estoico, la creencia en un único dios por encima de todos los demás
+        (que se fundirán en uno al terminarse el universo),...Los rasgos más significativos del
+        pensamiento de Séneca son el destacar la voluntad como facultad bien diferenciada del
+        entendimiento, la insistencia en el carácter pecador del hombre, y su oposición a la
+        esclavitud y su afirmación de la plena igualdad de todos los hombres.</string>
+
+    <string name="tituloLADV">La Alegría del vivir</string>
+    <string name="autorLADV">Orison Swett</string>
+    <string name="yearLADV">1895</string>
+    <string name="explicacionLADV">“La Alegría del Vivir” es una obra escrita con el propósito de
+        representar a cuantos corren desalados en pos de lo que se les figura la dicha, el error
+        en que están al confiarse ciegamente a la esperanza, casi siempre engañosa cuando
+        infundada, en vez de apoyarse en los brazos de la realidad. Demuestra Marden en esta
+        obra que no es prudente dejar lo cierto por lo dudoso, ni aventurarse en los mares de la
+        vida sin brújula ni timón que gobierne nuestra nave, ni tampoco es cordura creer que la
+        felicidad es algo extraño a quien la busca fuera de sí mismo, sin percatarse de que está
+        escondida en lo más íntimo de su ser. Quien lea atentamente este libro y logre asimilar
+        su significado se convencerá por experiencia personal, superior a los más contundentes
+        argumentos, de que, en vez de ser la vida tan triste como a los pesimistas y tediosos
+        les parece, encubre en cada instante una chispa de felicidad. La conocida pero sapientísima
+        fábula de la gallina de los huevos de oro representa acabadamente en su moraleja, de
+        que “La Alegría del Vivir” parece ampliación, cómo el hombre necesita ser dichoso día
+        por día, momento por momento, sin buscar la felicidad fuera de él ni forjarse la quimera
+        de que cualquier tiempo venidero ha de ser mejor, si antes no se mejora a sí mismo y,
+        por el ajuste de sus potencialidades con sus actos, dilata el campo de su actividad e
+        intensifica los puros goces que alegran la vida.</string>
+
+    <string name="tituloLRDP">Las ruinas de Palmira</string>
+    <string name="autorLRDP">Conde de Volney</string>
+    <string name="yearLRDP">1791 d.C.</string>
+    <string name="explicacionLRDP">Famosa obra del Conde de Volney en la que se hace referencia a
+        una de las ideas filosóficas que defendió el autor hasta sus últimos días: la ley natural.
+        Volney entiende por ley natural toda sabiduría, toda perfección, consistente en la práctica
+        de los axiomas que fundaron esta organización: conservar, instruir a los demás, moderarse,
+        vivir para los semejantes con el fin de que ellos vivan para ti.</string>
+
+    <string-array name="titulos">
+        <item>El arte de amar</item>
+        <item>Elogio a la Locura</item>
+        <item>Epístolas morales a Lucilio</item>
+        <item>La Alegría del vivir</item>
+        <item>Las ruinas de Palmira</item>
+
+    </string-array>
+
+</resources>
